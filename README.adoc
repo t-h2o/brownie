@@ -1,0 +1,49 @@
+= Brownie and ganache
+:nofooter:
+:toc: left
+:stylesheet: assets/my-stylesheet.css
+
+== Vocabulaire
+
+Maryse:: une langue de chat
+Ganache:: mélange de crème et de chocolat
+
+== Ingrédient
+
+.brownie
+* [ ] 100 g de beurre
+* [ ] 120 g de chocolat noir
+* [ ] 100 g d'oeufs
+* [ ] 60 g de sucre
+* [ ] 40 g de farine
+* [ ] 30 g de noix en cerneaux
+
+.Ganache
+* [ ] 350 g de crème 35%
+* [ ] 95 g de chocolat blanc
+
+.décoration
+* [ ] des noix (décoration)
+
+== Préparation
+
+=== Ganache
+
+. Chauffer la crème jusqu'à ébulition
+. Verser la crème dans le chocolat blanc
+. Mélanger
+. Reposer la crème une nuit 
+
+=== Brownie
+
+. Blanchir les oeufs et le sucres (7 minutes minimum avec un robot muni du fouet) 
+. Fondre le beurre et le chocolat noir en bain-marie
+. Une fois le beurre et le chocolat aient atteint 45°C:
+. Verser les sur les oeufs en trois fois
++
+WARNING:  Mélanger pas trop vite et garder le volume de sabayon
+. Ajouter la farine et les noix progressivement
++
+NOTE: Mélanger avec une maryse
+. Couler dans un moule
+. Enfourner durant 25-30 minutes à 160°C
