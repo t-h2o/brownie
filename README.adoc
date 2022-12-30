@@ -27,12 +27,14 @@ Ganache:: mélange de crème et de chocolat
 
 == Préparation
 
-=== Ganache
+=== Ganache montée
 
 . Chauffer la crème jusqu'à ébulition
 . Verser la crème dans le chocolat blanc
 . Mélanger
 . Reposer la crème une nuit 
+. Battre le mélange
+. Pocher sur le brownie froid
 
 === Brownie
 
